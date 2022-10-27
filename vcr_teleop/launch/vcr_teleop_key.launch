@@ -1,0 +1,6 @@
+<launch>
+
+  <!-- vcr_teleop_key already has its own built in velocity smoother -->
+  <node pkg="vcr_teleop" type="vcr_teleop_key" name="vcr_teleop_keyboard"  output="screen">
+  </node>
+</launch>
