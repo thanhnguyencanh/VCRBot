@@ -6,3 +6,6 @@
 
 ### Demo Environment
 ![Small House](https://github.com/NguyenCanhThanh/VCRBot/blob/main/docs/environment.png)
+
+# How to use
+
