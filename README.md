@@ -9,6 +9,4 @@
 
 # How to use
 
-''' 
-git clone https://github.com/NguyenCanhThanh/VCRBot
-'''
+''' git clone https://github.com/NguyenCanhThanh/VCRBot'''
