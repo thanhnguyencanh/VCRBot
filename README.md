@@ -17,4 +17,10 @@ Create workspace
 mkdir -p ~/catkin_ws/src
 cd ~/catkin_ws
 catkin_init_workspace
+catkin build
+```
+
+Launch gazebo Simulation
+```
+roslaunch vcr_gazebo vcr_world.launch
 ```
